@@ -1,0 +1,19 @@
+{
+  "name": "samplenodeproject",
+  "version": "1.0.0",
+  "description": "sample node project to understand node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swapna",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.6.1",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
